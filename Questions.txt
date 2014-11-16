@@ -1,0 +1,16 @@
+Q1.
+a) Functional languages will optimise your code to what they see fit during compilation/interpretation, whereas imperative languages do exactly what you tell them.
+b) Functional languages have everything reducing to expressions, whereas imperative languages have commands which are executed.
+c) Imperative languages typically grant you increased access to the memory compared to functional languages where it is all abstracted.
+
+2.
+a) int x = new int;
+b) int[] ref1= null
+c) public class ball {
+		int x = new int;
+		}
+d)ball x = new ball()
+
+6. It doesnt work as Java passes by value. It passes a nd b to vectorAdd by creating two new variables x and y. x and y have (1,1) added to them, while a and b are unchanged.
+
+9. A stack is a data structure which follows the principle of Last-on-First-off. Only the top of the stack is available.
